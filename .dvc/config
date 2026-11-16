@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\Candice\Documents\S9\Machine Learning in Production\Cours 3\mlflow-with-daghub\dvc-storage
