@@ -1,5 +1,8 @@
 [core]
     autostage = true
-    remote = localstorage
+    remote = myazure
 ['remote "localstorage"']
     url = C:\Users\Candice\Documents\S9\Machine Learning in Production\Cours 3\mlflow-with-daghub\dvc-storage
+['remote "myazure"']
+    url = azure://dvc
+    account_name = wut2026
