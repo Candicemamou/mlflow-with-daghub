@@ -3,4 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 mlruns/
 mlartifacts/
+model/
+serve-error.txt
+mlflow.db
 .env

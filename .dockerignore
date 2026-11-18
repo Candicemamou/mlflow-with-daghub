@@ -1,0 +1,15 @@
+.git/
+.github/
+.dvc/
+.venv/
+data/
+model/
+mlruns/
+mlartifacts/
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+*.pdf
+*.txt
+!requirements.txt
+.env
